@@ -1,0 +1,7 @@
+# 本地助手工作数据
+.workbuddy/
+
+# 系统与临时文件
+Thumbs.db
+.DS_Store
+*.tmp
